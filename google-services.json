@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1054910625594",
+    "firebase_url": "https://the-attic-13ac9.firebaseio.com",
+    "project_id": "the-attic-13ac9",
+    "storage_bucket": "the-attic-13ac9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054910625594:android:79695b00452805c6fb8203",
+        "android_client_info": {
+          "package_name": "com.jama.theattic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1054910625594-a6jv5o9abdstfodgpndu57rd0eflaifo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1M-DoJ-h1H-f39gTImqgiFDLDxPecApY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1054910625594-a6jv5o9abdstfodgpndu57rd0eflaifo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
